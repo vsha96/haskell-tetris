@@ -1,10 +1,10 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.33.0.
+-- This file has been generated from package.yaml by hpack version 0.34.4.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 202fadd6e8bdd357e6fd7ce08e85040913bf3fb16f7f56f61983126c07375d5b
+-- hash: f299a870a8b088498a05c4ddb9015d83c97cd179d4686ef1e66eabf33b4fe9dc
 
 name:           haskell-tetris
 version:        1.0
@@ -14,6 +14,7 @@ bug-reports:    https://github.com/vsha96/haskell-tetris/issues
 author:         vsha96
 copyright:      2021 Ivan Shulyugin
 license:        BSD3
+license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
     README.md
